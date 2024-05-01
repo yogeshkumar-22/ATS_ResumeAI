@@ -19,7 +19,3 @@ https://ai-resume-assistant-geminipro.streamlit.app/
 - How Can I Improvise My Skills: Offers specific recommendations on how the candidate can improve their skills and experience to better match the job requirements.
 - Percentage Match: Calculates the percentage of match between the resume and job description, highlights missing keywords, and provides final thoughts.
 - Configure the Maker Suite Google API.
-#### Functions:
-- get_gemini_response: Calls the Gemini Pro AI model to generate content based on provided inputs and prompts.
-- resume_pdf_setup: Converts a uploaded PDF resume to a list of images.
-
