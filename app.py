@@ -45,7 +45,7 @@ def resume_pdf_setup(uploaded_file):
 
 #==================== Streamlit App =====================#
 
-stl.set_page_config(page_title="ATS - Resume Builder Expert")
+stl.set_page_config(page_title="ATS - Resume Analyzer Expert")
 stl.header("ATS - Application Tracking System")
 input_text = stl.text_area("Job Description: ", key="input")
 uploaded_file = stl.file_uploader("Upload your resume(PDF)...", type=["pdf"])
