@@ -7,6 +7,10 @@
 - This code creates a Streamlit application that serves as an ATS (Applicant Tracking System) with resume evaluation capabilities.
 - It leverages Google's Gemini Pro AI model to analyze resumes and provide insights based on different prompts and job descriptions.
 
+#### Deployement Site on Stream Cloud
+https://ai-resume-assistant-geminipro.streamlit.app/
+
+
 #### Key Features:
 - Resume Upload: Users can upload their resumes in PDF format.
 - Job Description Input: Users can enter the job description they're applying for.
