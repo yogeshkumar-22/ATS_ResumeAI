@@ -1,5 +1,5 @@
 
-# [Gemini Pro Vision AI Model ATS - Resume Tracking System]
+# [Personalized Resume Feedback & Recommendation System Powered by GeminiPro]
 
 
 #### Purpose:
